@@ -1,0 +1,23 @@
+---
+title: "Internet Protocol Address (IP Address)?"
+description: "An Internet Protocol address (IP address) is a logical numeric address that is assigned to every single computer, printer, switch, router or any other device that is part of a TCP/IP-based network."
+preview_image:https://i.ytimg.com/vi/7_-qWlvQQtY/maxresdefault.jpg
+section: blog
+author: John Doe
+date: 2019-11-08 10:00 UTC
+tags: Development, Programming, principle, Internet ,
+published: false
+has_comments:true
+---
+
+The IP address is the core component on which the networking architecture is built; no network exists without it. An IP address is a logical address that is used to uniquely identify every node in the network. Because IP addresses are logical, they can change. They are similar to addresses in a town or city because the IP address gives the network node an address so that it can communicate with other nodes or networks, just like mail is sent to friends and relatives
+
+READMORE
+
+(vi/7_-qWlvQQtY/maxresdefault.jpg)
+
+The numerals in an IP address are divided into 2 parts 4 41 PM 11/2/2019 41 PM 11/2/2019An IP address is the most significant and important component in the networking phenomena that binds the World Wide Web together. The IP address is a numeric address assigned to every unique instance that is connected to any computer communication network using the TCP/IP communication protocols.
+
+Network nodes are assigned IP addresses by the Dynamic Host Configuration Protocol server as soon as the nodes connect to a network. DHCP assigns IP addresses using a pool of available addresses which are part of the whole addressing scheme. Though DHCP only provides addresses that are not static, many machines reserve static IP addresses that are assigned to that entity forever and cannot be used again.
+
+## Annotation Types
